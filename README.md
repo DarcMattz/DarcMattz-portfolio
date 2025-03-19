@@ -6,7 +6,7 @@ A personal portfolio website built with React.js and Vite. Showcasing my project
 
 - React.js
 - Vite
-- Tailwind CSS / Material UI (if using)
+- Tailwind CSS
 
 ## Installation
 
